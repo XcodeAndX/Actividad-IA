@@ -17,3 +17,8 @@ Puedes instalarlas con el siguiente comando:
 
 ```bash
 pip install numpy scikit-learn
+```
+Para ejecurar el proyecto, necesitan escribir en la consola el siguiente comando:
+
+```bash
+python MovementIA.py
