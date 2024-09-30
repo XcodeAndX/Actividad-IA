@@ -1,30 +1,60 @@
-import numpy as np
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import accuracy_score
-from sklearn.datasets import load_iris
+import pandas as pd
+from collections import deque
 
-# Cargar el dataset Iris desde scikit-learn
-iris = load_iris()
+# Definir las rutas como un DataFrame de Pandas
+data = {
+    'Inicio': ['A', 'A', 'B', 'B', 'C', 'D', 'E', 'F'],
+    'Destino': ['B', 'C', 'D', 'E', 'F', 'G', 'G', 'G']
+}
+rutas_df = pd.DataFrame(data)
 
-# Crear arrays NumPy para características (X) y etiquetas (y)
-X = iris.data
-y = iris.target
 
-# Mostrar las primeras 5 filas del array
-print("Datos de Iris (primeras 5 filas):")
-print(X[:5])
+# Función para obtener vecinos de un nodo (parada)
+def obtener_vecinos(rutas_df, nodo):
+    return rutas_df[rutas_df['Inicio'] == nodo]['Destino'].tolist()
 
-# Dividir los datos en conjunto de entrenamiento y prueba (80% - 20%)
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# Crear y entrenar un modelo Random Forest
-model = RandomForestClassifier(random_state=42)
-model.fit(X_train, y_train)
+# Función para buscar la mejor ruta utilizando BFS
+def buscar_ruta(rutas_df, inicio, destino):
+    # Cola para almacenar los caminos posibles
+    cola = deque([[inicio]])
 
-# Realizar predicciones con el conjunto de prueba
-y_pred = model.predict(X_test)
+    # Conjunto para rastrear los nodos visitados
+    visitados = set()
 
-# Evaluar el modelo con precisión
-accuracy = accuracy_score(y_test, y_pred)
-print(f"\nPrecisión del modelo: {accuracy * 100:.2f}%")
+    while cola:
+        # Extraer el primer camino de la cola
+        camino = cola.popleft()
+
+        # Obtener el último nodo en el camino actual
+        nodo = camino[-1]
+
+        # Verificar si hemos llegado al destino
+        if nodo == destino:
+            return camino
+
+        # Si el nodo no ha sido visitado, continuar la búsqueda
+        if nodo not in visitados:
+            # Marcar el nodo como visitado
+            visitados.add(nodo)
+
+            # Obtener los vecinos del nodo actual desde el DataFrame
+            vecinos = obtener_vecinos(rutas_df, nodo)
+            for vecino in vecinos:
+                nuevo_camino = list(camino)  # Crear un nuevo camino
+                nuevo_camino.append(vecino)
+                cola.append(nuevo_camino)
+
+    # Si no se encuentra un camino al destino
+    return None
+
+
+# Probar el sistema buscando la mejor ruta desde A hasta G
+inicio = "A"
+destino = "G"
+ruta = buscar_ruta(rutas_df, inicio, destino)
+
+if ruta:
+    print(f"La mejor ruta desde {inicio} hasta {destino} es: {' -> '.join(ruta)}")
+else:
+    print(f"No se encontró una ruta desde {inicio} hasta {destino}.")

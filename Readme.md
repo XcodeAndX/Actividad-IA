@@ -1,24 +1,32 @@
-# Clasificación del Conjunto de Datos Iris con NumPy y Scikit-learn
+# Sistema Inteligente de Rutas en Transporte Masivo con Python
 
-Este proyecto implementa un modelo de clasificación utilizando el conjunto de datos *Iris* con la librería **NumPy** para manejar los datos y **scikit-learn** para entrenar un modelo `RandomForestClassifier`. El objetivo es predecir la especie de flor en función de sus características.
+## Descripción
+Este proyecto implementa un sistema inteligente para encontrar la mejor ruta desde un punto A a un punto B dentro de un sistema de transporte masivo utilizando **Python**, **Pandas** y el algoritmo de búsqueda en anchura (**BFS**).
+
+El sistema utiliza una **base de conocimiento** representada en un **DataFrame de Pandas**, donde cada fila del DataFrame representa una conexión directa entre dos paradas. Luego, el algoritmo BFS busca la ruta más corta entre las paradas de inicio y destino.
 
 ## Estructura del Proyecto
-
-- `modelo_iris_numpy.py`: Contiene el código principal para cargar los datos, dividir el conjunto en entrenamiento y prueba, entrenar el modelo de clasificación y evaluar su precisión.
+- `sistema_rutas.py`: Archivo principal que contiene el código para la búsqueda de la mejor ruta.
+- `README.md`: Este archivo de documentación.
 
 ## Requisitos
+- Python 3.x
+- Librerías:
+  - `pandas`
+  - `collections` (ya incluida en Python)
 
-Antes de ejecutar el código, asegúrate de tener instaladas las siguientes bibliotecas:
+## Instalación
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/sistema-inteligente-rutas.git
+   ```
 
-- [NumPy](https://numpy.org/) - Para manipulación de arrays.
-- [Scikit-learn](https://scikit-learn.org/) - Para el modelo de clasificación y división de datos.
-
-Puedes instalarlas con el siguiente comando:
-
+2. Instalar la dependencia de pandas
 ```bash
-pip install numpy scikit-learn
+pip install pandas
 ```
-Para ejecurar el proyecto, necesitan escribir en la consola el siguiente comando:
+3. Para ejecurar el proyecto, necesitan escribir en la consola el siguiente comando:
 
 ```bash
 python MovementIA.py
+```
