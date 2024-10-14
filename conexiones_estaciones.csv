@@ -1,0 +1,787 @@
+Estacion_A,Estacion_B,Distancia
+PUENTE AEREO,EL DORADO,1.1505678668556307
+PUENTE AEREO,Colegio Estrada de María Auxiliadora,4.7935593927204305
+PUENTE AEREO,Parque Normandía,3.540582329052397
+PUENTE AEREO,Br. La Laguna Fontibón,2.907723950998327
+PUENTE AEREO,Br. La Tortigua,2.7671917868647364
+PUENTE AEREO,Ciudadela Colsubsidio IV Sector,4.5550652475100435
+PUENTE AEREO,Br. El Minuto de Dios,4.780485141402331
+PUENTE AEREO,Br. Ferrocaja,2.0166130568991925
+PUENTE AEREO,Brisas Aldea Fontibón,2.952003956285987
+PUENTE AEREO,Br. Villa del Pinar,2.4746888451444
+PUENTE AEREO,Br. Lujan,3.971100556289146
+PUENTE AEREO,Alameda de Villaluz,3.3169509436688545
+PUENTE AEREO,Parque Castilla Reservado,4.947030747493896
+PUENTE AEREO,Br. San Ignacio,3.244823759759882
+PUENTE AEREO,Br. Álamos Norte,2.222413983423826
+PUENTE AEREO,Br. Sabana del Dorado,2.0706819952980187
+PUENTE AEREO,IED Costa Rica,1.5672274510940964
+PUENTE AEREO,Br. La Estrada,4.652973061141683
+ESTACION DE TELEFERICO,ESTACION DE TELEFERICO,0.6154465173522352
+ESTACION DE TELEFERICO,PLAZA DE MERCADO DE PALOQUEMAO,2.992003674104749
+ESTACION DE TELEFERICO,ESTACION DE LA SABANA,2.550514977349186
+ESTACION DE TELEFERICO,ESTACION DE FUNICULAR,0.02769269117370613
+ESTACION DE TELEFERICO,ESTACION DE FUNICULAR,0.6511490984612843
+ESTACION DE TELEFERICO,Br. Alfonso López,4.3337126775215715
+ESTACION DE TELEFERICO,Br. Galerías,4.50183268925765
+ESTACION DE TELEFERICO,Estación Zona Industrial,4.590378987312092
+ESTACION DE TELEFERICO,Br. La Capuchina,1.6530784941412664
+ESTACION DE TELEFERICO,Br. Cundinamarca,4.044221264582789
+ESTACION DE TELEFERICO,Br. La Soledad,3.7095282092080737
+ESTACION DE TELEFERICO,Pl. Paloquemao,3.083883677818068
+ESTACION DE TELEFERICO,Escuela María Montessori,4.109908352771306
+ESTACION DE TELEFERICO,Carrera  5A,4.7602693366328275
+ESTACION DE TELEFERICO,Br. Sociego,4.7565472335435475
+ESTACION DE TELEFERICO,PLAZA DE MERCADO DE PALOQUEMAO,3.42316772467784
+ESTACION DE TELEFERICO,ESTACION DE LA SABANA,3.097807187601432
+ESTACION DE TELEFERICO,ESTACION DE FUNICULAR,0.6343124177719448
+ESTACION DE TELEFERICO,ESTACION DE FUNICULAR,0.1361163043776774
+ESTACION DE TELEFERICO,Br. Alfonso López,4.378008893589793
+ESTACION DE TELEFERICO,Br. Galerías,4.5391722893752275
+ESTACION DE TELEFERICO,Br. La Capuchina,2.172277064860787
+ESTACION DE TELEFERICO,Br. Cundinamarca,4.458462179416838
+ESTACION DE TELEFERICO,Br. La Soledad,3.8204810813223125
+ESTACION DE TELEFERICO,Pl. Paloquemao,3.5287697938897526
+ESTACION DE TELEFERICO,Escuela María Montessori,4.71680146109417
+AEROPUERTO GUAYMARAL,Colegio San Mateo Apóstol,3.218831762641565
+PLAZA DE MERCADO DE PALOQUEMAO,ESTACION DE LA SABANA,1.0287591409503232
+PLAZA DE MERCADO DE PALOQUEMAO,ESTACION DE FUNICULAR,2.9643218738421653
+PLAZA DE MERCADO DE PALOQUEMAO,ESTACION DE FUNICULAR,3.529833575459296
+PLAZA DE MERCADO DE PALOQUEMAO,Br. Milenta,4.815442501946306
+PLAZA DE MERCADO DE PALOQUEMAO,Br. Alfonso López,2.8219777407593156
+PLAZA DE MERCADO DE PALOQUEMAO,Br. Galerías,2.9724921390428474
+PLAZA DE MERCADO DE PALOQUEMAO,Urb. Santa María,4.824383693697073
+PLAZA DE MERCADO DE PALOQUEMAO,Br. Benjamín Herrera,4.470203546842424
+PLAZA DE MERCADO DE PALOQUEMAO,Pq. Primavera,2.75029369317591
+PLAZA DE MERCADO DE PALOQUEMAO,Estación Zona Industrial,1.633958569541957
+PLAZA DE MERCADO DE PALOQUEMAO,Br. Gorgonzola,2.263677384969528
+PLAZA DE MERCADO DE PALOQUEMAO,Br. Tejar,4.855537607141058
+PLAZA DE MERCADO DE PALOQUEMAO,Br. La Capuchina,1.414513708678959
+PLAZA DE MERCADO DE PALOQUEMAO,Br. Cundinamarca,1.0549442624530512
+PLAZA DE MERCADO DE PALOQUEMAO,Centro de Alto Rendimiento,4.647030408108085
+PLAZA DE MERCADO DE PALOQUEMAO,IED Antonio Baraya,4.326445206679003
+PLAZA DE MERCADO DE PALOQUEMAO,Br. La Fragua,3.696649809033894
+PLAZA DE MERCADO DE PALOQUEMAO,Br. La Soledad,2.1107556569133146
+PLAZA DE MERCADO DE PALOQUEMAO,Br. Santa Isabel,3.165671072720937
+PLAZA DE MERCADO DE PALOQUEMAO,Pl. Paloquemao,0.14293888682112277
+PLAZA DE MERCADO DE PALOQUEMAO,Escuela María Montessori,3.6727689187908386
+PLAZA DE MERCADO DE PALOQUEMAO,Carrera  5A,4.960033276025326
+PLAZA DE MERCADO DE PALOQUEMAO,Br. Sociego,4.791147105580873
+EL DORADO,Parque Normandía,4.684193974304158
+EL DORADO,Br. La Laguna Fontibón,3.1018143012207906
+EL DORADO,Br. La Tortigua,2.0044152764467613
+EL DORADO,Ciudadela Colsubsidio IV Sector,4.641269691051404
+EL DORADO,Br. Ferrocaja,3.1374648012404167
+EL DORADO,Brisas Aldea Fontibón,2.045497458517164
+EL DORADO,Br. Villa del Pinar,3.4902131980056734
+EL DORADO,Alameda de Villaluz,4.463669537780585
+EL DORADO,Br. San Ignacio,4.376479158212849
+EL DORADO,Br. Álamos Norte,2.8173402357490147
+EL DORADO,Br. Sabana del Dorado,1.2783793643344072
+EL DORADO,IED Costa Rica,2.246079617175236
+ESTACION DE LA SABANA,ESTACION DE FUNICULAR,2.5241569599960596
+ESTACION DE LA SABANA,ESTACION DE FUNICULAR,3.175265792445922
+ESTACION DE LA SABANA,Br. Milenta,4.944942365832719
+ESTACION DE LA SABANA,Br. Alfonso López,3.7591222303743574
+ESTACION DE LA SABANA,Br. Galerías,3.918922968754892
+ESTACION DE LA SABANA,Pq. Primavera,2.9655621814618076
+ESTACION DE LA SABANA,Estación Zona Industrial,2.2064610049080002
+ESTACION DE LA SABANA,Br. Gorgonzola,2.873788963059217
+ESTACION DE LA SABANA,Br. Tejar,4.821934985640766
+ESTACION DE LA SABANA,Br. La Capuchina,0.9377020656852094
+ESTACION DE LA SABANA,Br. Cundinamarca,1.8846506588136702
+ESTACION DE LA SABANA,IED Antonio Baraya,3.598893596792862
+ESTACION DE LA SABANA,Br. La Fragua,3.247647198596868
+ESTACION DE LA SABANA,Br. La Soledad,3.0251488546435223
+ESTACION DE LA SABANA,Br. Santa Isabel,2.7297736673128297
+ESTACION DE LA SABANA,Pl. Paloquemao,0.9980367955746114
+ESTACION DE LA SABANA,Escuela María Montessori,2.729506758040236
+ESTACION DE LA SABANA,Carrera  5A,3.965296145512048
+ESTACION DE LA SABANA,Br. Sociego,3.8116728017434127
+PLAZA DE MERCADO LAS FERIAS,Embajada de Francia,4.834684222368096
+PLAZA DE MERCADO LAS FERIAS,Colegio Estrada de María Auxiliadora,1.2176859747852187
+PLAZA DE MERCADO LAS FERIAS,Parque Normandía,2.659462578895931
+PLAZA DE MERCADO LAS FERIAS,Br. Benjamín Herrera,3.649046006892629
+PLAZA DE MERCADO LAS FERIAS,Br. El Minuto de Dios,1.71951456469286
+PLAZA DE MERCADO LAS FERIAS,Br. Ferrocaja,3.685266363705969
+PLAZA DE MERCADO LAS FERIAS,Br. Villa del Pinar,4.209519674778086
+PLAZA DE MERCADO LAS FERIAS,Colsanitas CL 100,4.899076371584421
+PLAZA DE MERCADO LAS FERIAS,Br. Lujan,1.5270432542763086
+PLAZA DE MERCADO LAS FERIAS,Centro de Alto Rendimiento,3.112191361685219
+PLAZA DE MERCADO LAS FERIAS,Alameda de Villaluz,2.1107829693312095
+PLAZA DE MERCADO LAS FERIAS,IED Álvaro Gómez Hurtado,4.934500295618195
+PLAZA DE MERCADO LAS FERIAS,Br. Jorge Eliecer Gaitán,2.054993416688489
+PLAZA DE MERCADO LAS FERIAS,Br. San Ignacio,3.018495129810697
+PLAZA DE MERCADO LAS FERIAS,Br. Álamos Norte,3.8718465040490297
+PLAZA DE MERCADO LAS FERIAS,Br. La Estrada,0.9199022226134967
+ESTACION DE FUNICULAR,ESTACION DE FUNICULAR,0.6737263255927255
+ESTACION DE FUNICULAR,Br. Alfonso López,4.31314976859551
+ESTACION DE FUNICULAR,Br. Galerías,4.4814320724497225
+ESTACION DE FUNICULAR,Estación Zona Industrial,4.562742672515189
+ESTACION DE FUNICULAR,Br. La Capuchina,1.625828651256815
+ESTACION DE FUNICULAR,Br. Cundinamarca,4.016563013876842
+ESTACION DE FUNICULAR,Br. La Soledad,3.687236306288608
+ESTACION DE FUNICULAR,Pl. Paloquemao,3.056191910762659
+ESTACION DE FUNICULAR,Escuela María Montessori,4.095402182768929
+ESTACION DE FUNICULAR,Carrera  5A,4.752782237468359
+ESTACION DE FUNICULAR,Br. Sociego,4.747497502782011
+ESTACION DE FUNICULAR,Br. Alfonso López,4.514104701008664
+ESTACION DE FUNICULAR,Br. Galerías,4.675223312008914
+ESTACION DE FUNICULAR,Br. La Capuchina,2.256782099337999
+ESTACION DE FUNICULAR,Br. Cundinamarca,4.56909918028789
+ESTACION DE FUNICULAR,Br. La Soledad,3.955925320761391
+ESTACION DE FUNICULAR,Pl. Paloquemao,3.6330554664057324
+ESTACION DE FUNICULAR,Escuela María Montessori,4.71934993778995
+ESTACION DE USAQUEN,Embajada de Francia,2.0753593681575047
+ESTACION DE USAQUEN,Pquia. Santa Beatriz,1.1334169223906476
+ESTACION DE USAQUEN,Colsanitas CL 100,1.1730981660890494
+ESTACION DE USAQUEN,Br. San Luis Altos del Cabo,3.1003981396308595
+ESTACION DE USAQUEN,Br. Jorge Eliecer Gaitán,4.4582512104496175
+ESTACION DE USAQUEN,Br. La Esperanza Nororiental,3.260062509659171
+ESTACION DE USAQUEN,Colegio Siervas de San José,2.918373347094548
+Embajada de Francia,Br. Alfonso López,4.843561756095491
+Embajada de Francia,Pquia. Santa Beatriz,2.7826194376924134
+Embajada de Francia,Br. Galerías,4.719539056366117
+Embajada de Francia,Br. Benjamín Herrera,3.8107842856934484
+Embajada de Francia,Colsanitas CL 100,0.9925891738719562
+Embajada de Francia,Centro de Alto Rendimiento,4.806679842526445
+Embajada de Francia,Br. San Luis Altos del Cabo,2.9641463787457463
+Embajada de Francia,Br. Jorge Eliecer Gaitán,3.027317479899276
+Embajada de Francia,Br. La Esperanza Nororiental,2.9296834659041804
+Embajada de Francia,Colegio Siervas de San José,4.476789059968253
+Br. Jerusalén Las Brisas,Br. Roma - Bertha Hernádez  de Ospina,4.416031898480401
+Br. Jerusalén Las Brisas,Br. Alquería,4.38579347436515
+Br. Jerusalén Las Brisas,Br. Sumapaz,2.7386355326506324
+Br. Jerusalén Las Brisas,Parque Deportivo Arborizadora Alta,0.3530048914711723
+Br. Jerusalén Las Brisas,Parque Illimaní,2.588724221799729
+Br. Jerusalén Las Brisas,Br. Ronda,2.4134562889214477
+Br. Jerusalén Las Brisas,Colegio Marco Fidel Suarez,3.1557647537252307
+Br. Jerusalén Las Brisas,Br. Casablanca,4.974616144525071
+Br. Jerusalén Las Brisas,Br. Las Delicias,3.9451141172719266
+Br. Jerusalén Las Brisas,Br. Arborizadora Alta TV  34,0.6449612038460079
+Br. Jerusalén Las Brisas,IED Villa Rica Sede B,4.614109380765229
+Br. Jerusalén Las Brisas,Policlínico Comunitario Inglés,4.626156885309033
+Br. Jerusalén Las Brisas,Altos de Jalisco,3.3034718498505113
+Colegio Estrada de María Auxiliadora,Br. Alfonso López,4.6476124826290794
+Colegio Estrada de María Auxiliadora,Parque Normandía,1.7228854395778066
+Colegio Estrada de María Auxiliadora,Br. Galerías,4.489238616640407
+Colegio Estrada de María Auxiliadora,Urb. Santa María,3.994555061465628
+Colegio Estrada de María Auxiliadora,Br. Benjamín Herrera,2.9967574989161285
+Colegio Estrada de María Auxiliadora,Br. El Minuto de Dios,2.8092382919033096
+Colegio Estrada de María Auxiliadora,Br. Ferrocaja,3.0995490952579625
+Colegio Estrada de María Auxiliadora,INVIMA,4.639241803888657
+Colegio Estrada de María Auxiliadora,Br. Villa del Pinar,3.4287900313007595
+Colegio Estrada de María Auxiliadora,Br. Lujan,0.8230412729638589
+Colegio Estrada de María Auxiliadora,Centro de Alto Rendimiento,2.1382313021126214
+Colegio Estrada de María Auxiliadora,Alameda de Villaluz,1.500204491888534
+Colegio Estrada de María Auxiliadora,Br. Interindustrial,4.920841259635877
+Colegio Estrada de María Auxiliadora,Br. Jorge Eliecer Gaitán,2.1649236342313802
+Colegio Estrada de María Auxiliadora,Br. San Ignacio,2.1291561993244184
+Colegio Estrada de María Auxiliadora,Br. Álamos Norte,4.218532588115162
+Colegio Estrada de María Auxiliadora,IED Costa Rica,4.742856756180236
+Colegio Estrada de María Auxiliadora,Br. La Estrada,0.3555020633502573
+Br. Milenta,Br. Roma - Bertha Hernádez  de Ospina,4.976600862295276
+Br. Milenta,Br. Alquería La Fragua Norte,0.9831100722633933
+Br. Milenta,Urb. Santa María,3.9087684959600355
+Br. Milenta,Pq. Primavera,2.065448143742308
+Br. Milenta,CADE Kennedy,3.119935527017651
+Br. Milenta,Estación Zona Industrial,3.3086424129968424
+Br. Milenta,Br. Alquería,2.0662269442062846
+Br. Milenta,Br. Gorgonzola,2.9325190845491127
+Br. Milenta,Br. Hipotecho Occidental III,0.7384211666847453
+Br. Milenta,Br. Tejar,0.7723865243488726
+Br. Milenta,INVIMA,3.4175137846394117
+Br. Milenta,Br. Ciudad Techo II,4.338388510088624
+Br. Milenta,Br. Cundinamarca,4.040945078726022
+Br. Milenta,Colegio Marco Fidel Suarez,4.125312053762932
+Br. Milenta,Br. Ciudad Techo II,4.006325948229981
+Br. Milenta,Br. Interindustrial,3.7901694267849737
+Br. Milenta,IED Antonio Baraya,3.9776404953701485
+Br. Milenta,Br. La Fragua,2.740623783894778
+Br. Milenta,Br. Santa Isabel,2.871859200850462
+Br. Milenta,Pl. Paloquemao,4.6793327075546935
+Br. Milenta,Br. Las Delicias,2.6090863641006155
+Br. Milenta,IED Villa Rica Sede B,4.308249426720442
+Br. Milenta,Policlínico Comunitario Inglés,3.4030067249218465
+Br. Roma - Bertha Hernádez  de Ospina,Br. Alquería La Fragua Norte,4.339683197849815
+Br. Roma - Bertha Hernádez  de Ospina,Parque Público El Recreo,3.9787860222617035
+Br. Roma - Bertha Hernádez  de Ospina,Br. José María Carbonell,3.0992124516437487
+Br. Roma - Bertha Hernádez  de Ospina,CADE Kennedy,2.542850590045129
+Br. Roma - Bertha Hernádez  de Ospina,Br. Alquería,4.162344131817429
+Br. Roma - Bertha Hernádez  de Ospina,Br. Hipotecho Occidental III,4.473382079199215
+Br. Roma - Bertha Hernádez  de Ospina,Br. Islandia - Santa Lucía,2.710937094259725
+Br. Roma - Bertha Hernádez  de Ospina,Br. Ciudad Techo II,4.1311057909193165
+Br. Roma - Bertha Hernádez  de Ospina,Parque Deportivo Arborizadora Alta,4.6472949882517804
+Br. Roma - Bertha Hernádez  de Ospina,Br. Ciudad Techo II,3.697313957562575
+Br. Roma - Bertha Hernádez  de Ospina,Br. La Palestina I,2.1355399435809916
+Br. Roma - Bertha Hernádez  de Ospina,Br. Las Margaritas,2.3657933445790262
+Br. Roma - Bertha Hernádez  de Ospina,Br. Casablanca,0.5686119894715121
+Br. Roma - Bertha Hernádez  de Ospina,Br. Gran Colombiano,3.272535981246303
+Br. Roma - Bertha Hernádez  de Ospina,Br. Las Delicias,2.927199209712002
+Br. Roma - Bertha Hernádez  de Ospina,Br. Arborizadora Alta TV  34,4.929871646428426
+Br. Roma - Bertha Hernádez  de Ospina,IED Villa Rica Sede B,0.7021450166393468
+Br. Aures I,Ciudadela Colsubsidio IV Sector,2.055635973436703
+Br. Aures I,Br. Gilmar,3.982450900619547
+Br. Aures I,Br. El Minuto de Dios,3.6743090081214915
+Br. Aures I,Br. La Campiña,1.54735160943758
+Br. Aures I,IED Álvaro Gómez Hurtado,0.47835955874776487
+Br. Aures I,Br. Álamos Norte,4.02021585652728
+Br. Aures I,Br. Tuna Alta,2.1772149125823526
+Br. Aures I,Urb. Versalles,4.004606878701174
+Br. Gran Yomasa II Sector,IED Colombia Viva,4.7161942943381066
+Br. Gran Yomasa II Sector,Br. El Nuevo Portal II,2.3231080567037257
+Br. Gran Yomasa II Sector,Br. Santa Rita Suroriental,4.120443439672291
+Br. Gran Yomasa II Sector,Br. La Gloria Oriental,4.521383630801235
+Br. Gran Yomasa II Sector,Pq San Cayetano,2.210837643975514
+Br. Gran Yomasa II Sector,Br. Puerta al Llano,1.9124570169453627
+Br. Alfonso López,Br. Galerías,0.1725229277161515
+Br. Alfonso López,Urb. Santa María,4.650705615762279
+Br. Alfonso López,Br. Benjamín Herrera,1.8297881737137203
+Br. Alfonso López,Pq. Primavera,4.741703372061223
+Br. Alfonso López,Estación Zona Industrial,3.4644937062556647
+Br. Alfonso López,Br. Gorgonzola,3.6756444047868575
+Br. Alfonso López,Br. La Capuchina,3.5655303025653464
+Br. Alfonso López,Br. Cundinamarca,2.8154459570505024
+Br. Alfonso López,Centro de Alto Rendimiento,2.5583609086346026
+Br. Alfonso López,Br. Jorge Eliecer Gaitán,3.9078811006597736
+Br. Alfonso López,Br. La Soledad,0.7393071853168353
+Br. Alfonso López,Pl. Paloquemao,2.924282273238344
+Br. Alfonso López,Br. La Estrada,4.967924384690536
+Pquia. Santa Beatriz,Pquía. Santa María Magdalena,4.227388809748586
+Pquia. Santa Beatriz,Colsanitas CL 100,1.7923491522818513
+Pquia. Santa Beatriz,Br. San Luis Altos del Cabo,4.232083295071837
+Pquia. Santa Beatriz,Br. Jorge Eliecer Gaitán,4.434001760926821
+Pquia. Santa Beatriz,Urb. Versalles,4.736431267023269
+Pquia. Santa Beatriz,Br. La Esperanza Nororiental,4.393400301228861
+Pquia. Santa Beatriz,Colegio Siervas de San José,1.8094686684444088
+Parque Normandía,Br. La Laguna Fontibón,4.344170646652247
+Parque Normandía,Urb. Santa María,2.937726835216029
+Parque Normandía,Br. Benjamín Herrera,4.104700340877076
+Parque Normandía,Br. El Minuto de Dios,3.730340292373683
+Parque Normandía,Br. Ferrocaja,1.5816135056910083
+Parque Normandía,INVIMA,3.4358665398692776
+Parque Normandía,Br. Villa del Pinar,1.7261516742747343
+Parque Normandía,Br. Lujan,1.1348122833870486
+Parque Normandía,Centro de Alto Rendimiento,2.907574536046066
+Parque Normandía,Alameda de Villaluz,0.7900322419727391
+Parque Normandía,Br. Interindustrial,3.4650100395353016
+Parque Normandía,Br. Jorge Eliecer Gaitán,3.8456528621052333
+Parque Normandía,Br. San Ignacio,0.4118350887229437
+Parque Normandía,Br. Álamos Norte,3.7737241547292766
+Parque Normandía,IED Costa Rica,3.133436819583563
+Parque Normandía,Br. La Estrada,1.8212679213505318
+Br. Alquería La Fragua Norte,Urb. Santa María,4.85040253473783
+Br. Alquería La Fragua Norte,Pq. Primavera,2.830658992086365
+Br. Alquería La Fragua Norte,CADE Kennedy,2.9437860236786566
+Br. Alquería La Fragua Norte,Estación Zona Industrial,4.124075391364845
+Br. Alquería La Fragua Norte,Br. Alquería,1.111985205625653
+Br. Alquería La Fragua Norte,Br. Gorgonzola,3.8266881415990346
+Br. Alquería La Fragua Norte,Br. Hipotecho Occidental III,1.2192081559758636
+Br. Alquería La Fragua Norte,Br. Tejar,0.6869937780090332
+Br. Alquería La Fragua Norte,INVIMA,4.317787123964786
+Br. Alquería La Fragua Norte,Br. Ciudad Techo II,4.567970015785849
+Br. Alquería La Fragua Norte,Br. Cundinamarca,4.851566892788441
+Br. Alquería La Fragua Norte,Br. Ronda,4.587054375082161
+Br. Alquería La Fragua Norte,Colegio Marco Fidel Suarez,3.2443514618599965
+Br. Alquería La Fragua Norte,Br. Ciudad Techo II,4.162513428081184
+Br. Alquería La Fragua Norte,Br. Interindustrial,4.578800722761664
+Br. Alquería La Fragua Norte,IED Antonio Baraya,3.8329251604147236
+Br. Alquería La Fragua Norte,Br. La Fragua,2.7908348012484483
+Br. Alquería La Fragua Norte,Br. Santa Isabel,3.0869561604689033
+Br. Alquería La Fragua Norte,Br. Casablanca,4.610529667643507
+Br. Alquería La Fragua Norte,Br. Las Delicias,1.6975553802241625
+Br. Alquería La Fragua Norte,IED Villa Rica Sede B,3.7201510828985227
+Br. Alquería La Fragua Norte,Policlínico Comunitario Inglés,2.765576421735182
+Br. La Laguna Fontibón,Urb. Santa María,4.570150362033212
+Br. La Laguna Fontibón,Br. Ferrocaja,3.080358454182173
+Br. La Laguna Fontibón,Brisas Aldea Fontibón,2.8486957415971963
+Br. La Laguna Fontibón,INVIMA,4.2899065311953155
+Br. La Laguna Fontibón,Br. Ciudad Techo II,3.263106660569614
+Br. La Laguna Fontibón,Br. Villa del Pinar,2.61966942543093
+Br. La Laguna Fontibón,Br. Ciudad Techo II,3.7497109011444123
+Br. La Laguna Fontibón,Alameda de Villaluz,4.662296633594344
+Br. La Laguna Fontibón,Br. Interindustrial,3.3816029998641515
+Br. La Laguna Fontibón,Parque Castilla Reservado,2.0679615170673595
+Br. La Laguna Fontibón,Br. San Ignacio,3.9323355727252802
+Br. La Laguna Fontibón,Br. Sabana del Dorado,4.37445380560207
+Br. La Laguna Fontibón,IED Costa Rica,1.5663485003642952
+Pquía. Santa María Magdalena,Br. Gilmar,2.3278899209383095
+Pquía. Santa María Magdalena,Br. La Campiña,4.8837834249785805
+Pquía. Santa María Magdalena,Br. Tuna Alta,4.562909988383382
+Pquía. Santa María Magdalena,Urb. Versalles,1.891233788293728
+Pquía. Santa María Magdalena,Colegio Siervas de San José,2.529277646591209
+Br. Galerías,Urb. Santa María,4.6056278809
+Br. Galerías,Br. Benjamín Herrera,1.6574921091562067
+Br. Galerías,Pq. Primavera,4.826833106479714
+Br. Galerías,Estación Zona Industrial,3.5591654492603153
+Br. Galerías,Br. Gorgonzola,3.7434384568141934
+Br. Galerías,Br. La Capuchina,3.736356160371489
+Br. Galerías,Br. Cundinamarca,2.925568013964482
+Br. Galerías,Centro de Alto Rendimiento,2.411312498282949
+Br. Galerías,Br. Jorge Eliecer Gaitán,3.735959821555779
+Br. Galerías,Br. La Soledad,0.9060813151511747
+Br. Galerías,Pl. Paloquemao,3.071808326460022
+Br. Galerías,Br. La Estrada,4.807372020271722
+Parque Público El Recreo,Br. José María Carbonell,3.2741165565065042
+Parque Público El Recreo,Br. Islandia - Santa Lucía,2.2966373183943523
+Parque Público El Recreo,Br. Ciudad Techo II,4.972572425950492
+Parque Público El Recreo,Br. Ciudad Techo II,4.889806173439674
+Parque Público El Recreo,Br. La Palestina I,2.7239470045909178
+Parque Público El Recreo,Br. Las Margaritas,2.333384743746455
+Parque Público El Recreo,Br. Casablanca,3.47482672368152
+Parque Público El Recreo,Br. Gran Colombiano,2.7692592859487064
+Parque Público El Recreo,IED Villa Rica Sede B,4.322762348090487
+Urb. Santa María,Br. Benjamín Herrera,4.4095539898043885
+Urb. Santa María,Pq. Primavera,3.5831153163987
+Urb. Santa María,Estación Zona Industrial,3.490398235882412
+Urb. Santa María,Br. Gorgonzola,2.86856655718192
+Urb. Santa María,Br. Hipotecho Occidental III,3.7512932015800677
+Urb. Santa María,Br. Tejar,4.618341810447323
+Urb. Santa María,Br. Ferrocaja,3.6815776534456206
+Urb. Santa María,INVIMA,0.7147844088229393
+Urb. Santa María,Br. Ciudad Techo II,4.390132856020729
+Urb. Santa María,Br. Villa del Pinar,3.0520668679350376
+Urb. Santa María,Br. Cundinamarca,3.7880332224335196
+Urb. Santa María,Br. Lujan,3.869138891484642
+Urb. Santa María,Centro de Alto Rendimiento,3.295605766142509
+Urb. Santa María,Br. Ciudad Techo II,4.488858655664166
+Urb. Santa María,Alameda de Villaluz,3.7262168218721907
+Urb. Santa María,Br. Interindustrial,1.4887711699567305
+Urb. Santa María,Parque Castilla Reservado,4.50140637353531
+Urb. Santa María,Br. San Ignacio,2.858890560623458
+Urb. Santa María,Br. La Soledad,4.705500544307145
+Urb. Santa María,Pl. Paloquemao,4.766568659038623
+Urb. Santa María,IED Costa Rica,4.312260116793082
+Urb. Santa María,Br. La Estrada,4.28045560104257
+Br. José María Carbonell,Br. Islandia - Santa Lucía,1.0541454723323327
+Br. José María Carbonell,Br. La Palestina I,1.1288540084403553
+Br. José María Carbonell,Br. Las Margaritas,3.740502878673297
+Br. José María Carbonell,Br. Casablanca,3.0422931206249855
+Br. José María Carbonell,Br. Gran Colombiano,0.5713752581075664
+Br. José María Carbonell,IED Villa Rica Sede B,3.789605852067374
+Br. Benjamín Herrera,Estación Zona Industrial,4.642788267905919
+Br. Benjamín Herrera,Br. Gorgonzola,4.611119644843438
+Br. Benjamín Herrera,Br. Cundinamarca,4.154812589807521
+Br. Benjamín Herrera,Colsanitas CL 100,4.577197963806929
+Br. Benjamín Herrera,Br. Lujan,3.7438907210588797
+Br. Benjamín Herrera,Centro de Alto Rendimiento,1.2667416418334174
+Br. Benjamín Herrera,Alameda de Villaluz,4.31855374975965
+Br. Benjamín Herrera,Br. Jorge Eliecer Gaitán,2.1071432006427453
+Br. Benjamín Herrera,Br. San Ignacio,4.467752727287282
+Br. Benjamín Herrera,Br. La Soledad,2.5394723948670954
+Br. Benjamín Herrera,Pl. Paloquemao,4.547257226465006
+Br. Benjamín Herrera,Br. La Estrada,3.2814478293704803
+Br. La Tortigua,Ciudadela Colsubsidio IV Sector,3.4115650392028067
+Br. La Tortigua,Br. Ferrocaja,4.694560061504657
+Br. La Tortigua,Brisas Aldea Fontibón,3.2540181125393626
+Br. La Tortigua,Br. Álamos Norte,2.9078257646884516
+Br. La Tortigua,Br. Sabana del Dorado,0.7317468429655734
+Br. La Tortigua,IED Costa Rica,4.192023604275679
+Ciudadela Colsubsidio IV Sector,Br. El Minuto de Dios,3.9159538353617407
+Ciudadela Colsubsidio IV Sector,Br. La Campiña,3.481950188473614
+Ciudadela Colsubsidio IV Sector,IED Álvaro Gómez Hurtado,1.9085483430724706
+Ciudadela Colsubsidio IV Sector,Br. Álamos Norte,2.630157233429677
+Ciudadela Colsubsidio IV Sector,Br. Tuna Alta,4.0889883620262415
+Ciudadela Colsubsidio IV Sector,Br. Sabana del Dorado,3.723349814158973
+IED Colombia Viva,Pq. Gaitán Cortés,2.2513392314244527
+IED Colombia Viva,Br. Sumapaz,4.26540665480199
+IED Colombia Viva,Br. Callejón de Santa Bárbara,0.8909980448952756
+IED Colombia Viva,Br. Santa Rita Suroriental,1.7976599169958947
+IED Colombia Viva,Br. La Gloria Oriental,1.8902343811736513
+IED Colombia Viva,Br. Ronda,4.262398788845465
+IED Colombia Viva,Colegio Marco Fidel Suarez,4.374486392421684
+IED Colombia Viva,Pq San Cayetano,4.250814363873798
+IED Colombia Viva,IED Antonio Baraya,3.616137284734937
+IED Colombia Viva,Portal 20 de Julio,1.7376194419063833
+IED Colombia Viva,Br. La Fragua,4.878074704682367
+IED Colombia Viva,Escuela María Montessori,3.9717256935968344
+IED Colombia Viva,Carrera  5A,2.9438007169402374
+IED Colombia Viva,Policlínico Comunitario Inglés,3.959011942040316
+IED Colombia Viva,Altos de Jalisco,3.5209914203831683
+IED Colombia Viva,Br. Sociego,2.9876221492597343
+Br. Gilmar,Br. La Campiña,2.71249724033662
+Br. Gilmar,IED Álvaro Gómez Hurtado,4.218545793763855
+Br. Gilmar,Br. Tuna Alta,2.291522451442075
+Br. Gilmar,Urb. Versalles,0.914100831259484
+Br. Gilmar,Colegio Siervas de San José,3.8459429195486647
+Pq. Primavera,Estación Zona Industrial,1.300075423732014
+Pq. Primavera,Br. Alquería,3.6321449613155
+Pq. Primavera,Br. Gorgonzola,1.1741273308229836
+Pq. Primavera,Br. Hipotecho Occidental III,2.6591324670746865
+Pq. Primavera,Br. Tejar,2.194112630527383
+Pq. Primavera,Br. La Capuchina,3.859398992375888
+Pq. Primavera,INVIMA,3.4585222858994067
+Pq. Primavera,Br. Cundinamarca,2.0221910828465752
+Pq. Primavera,Br. Interindustrial,4.242743634798436
+Pq. Primavera,IED Antonio Baraya,3.4005962044788984
+Pq. Primavera,Br. La Fragua,2.1406977328816272
+Pq. Primavera,Br. La Soledad,4.249963456458718
+Pq. Primavera,Br. Santa Isabel,1.8508987597065718
+Pq. Primavera,Pl. Paloquemao,2.6147842633464333
+Pq. Primavera,Escuela María Montessori,3.8336598310073033
+Pq. Primavera,Br. Las Delicias,4.524827065371395
+Pq. Primavera,Policlínico Comunitario Inglés,3.988877062324576
+Pq. Primavera,Br. Sociego,4.91020094259458
+CADE Kennedy,Br. Alquería,3.454515051986103
+CADE Kennedy,Br. Hipotecho Occidental III,2.4303195272748095
+CADE Kennedy,Br. Tejar,3.513495053951169
+CADE Kennedy,Br. Islandia - Santa Lucía,4.829906760858311
+CADE Kennedy,INVIMA,4.318898299144183
+CADE Kennedy,Br. Ciudad Techo II,2.087276901006459
+CADE Kennedy,Br. Ciudad Techo II,1.5951708898073
+CADE Kennedy,Br. Interindustrial,3.927233574497666
+CADE Kennedy,Parque Castilla Reservado,3.3531541542194754
+CADE Kennedy,Br. La Palestina I,4.398063552193992
+CADE Kennedy,Br. Las Margaritas,2.7427744216697
+CADE Kennedy,Br. Casablanca,2.4489164241609687
+CADE Kennedy,Br. Las Delicias,2.6017583395079473
+CADE Kennedy,IED Villa Rica Sede B,1.8747055446497762
+Estación Zona Industrial,Br. Alquería,4.925481365909768
+Estación Zona Industrial,Br. Gorgonzola,0.6679992979164715
+Estación Zona Industrial,Br. Hipotecho Occidental III,3.820666015606942
+Estación Zona Industrial,Br. Tejar,3.494047422231202
+Estación Zona Industrial,Br. La Capuchina,2.954007721933571
+Estación Zona Industrial,INVIMA,3.628184140049528
+Estación Zona Industrial,Br. Cundinamarca,0.7324535852356838
+Estación Zona Industrial,Centro de Alto Rendimiento,4.363431157478664
+Estación Zona Industrial,Br. Interindustrial,4.547149200512827
+Estación Zona Industrial,IED Antonio Baraya,4.065044287923532
+Estación Zona Industrial,Br. La Fragua,3.01448893975494
+Estación Zona Industrial,Br. La Soledad,2.951181343647558
+Estación Zona Industrial,Br. Santa Isabel,2.56194753981984
+Estación Zona Industrial,Pl. Paloquemao,1.5208920130775474
+Estación Zona Industrial,Escuela María Montessori,4.013197504027957
+Pq. Gaitán Cortés,Br. Callejón de Santa Bárbara,2.9074579665396785
+Pq. Gaitán Cortés,Br. Santa Rita Suroriental,1.681705654021037
+Pq. Gaitán Cortés,Br. La Gloria Oriental,1.2899451466663296
+Pq. Gaitán Cortés,Pq San Cayetano,4.431459700889211
+Pq. Gaitán Cortés,IED Antonio Baraya,3.5819242225198837
+Pq. Gaitán Cortés,Portal 20 de Julio,1.160412150099245
+Pq. Gaitán Cortés,Br. La Fragua,4.869178696317721
+Pq. Gaitán Cortés,Br. Santa Isabel,4.942614966520849
+Pq. Gaitán Cortés,Escuela María Montessori,2.995774682418069
+Pq. Gaitán Cortés,Carrera  5A,1.6098327353739186
+Pq. Gaitán Cortés,Policlínico Comunitario Inglés,4.956622404089978
+Pq. Gaitán Cortés,Br. Sociego,1.8484181383547176
+Br. Alquería,Br. Gorgonzola,4.728990170893602
+Br. Alquería,Br. Hipotecho Occidental III,2.3019528865392376
+Br. Alquería,Br. Sumapaz,4.973419676198325
+Br. Alquería,Br. Tejar,1.4892296278736332
+Br. Alquería,Parque Deportivo Arborizadora Alta,4.29453081099802
+Br. Alquería,Br. Ronda,3.4815357264965083
+Br. Alquería,Colegio Marco Fidel Suarez,2.1626381258843046
+Br. Alquería,Br. Ciudad Techo II,4.88574417470447
+Br. Alquería,IED Antonio Baraya,3.60093226485907
+Br. Alquería,Br. La Fragua,2.8946688089327908
+Br. Alquería,Br. Santa Isabel,3.32931621704924
+Br. Alquería,Br. Casablanca,4.548981300044012
+Br. Alquería,Br. Las Delicias,1.2353191881774577
+Br. Alquería,IED Villa Rica Sede B,3.658315787041478
+Br. Alquería,Policlínico Comunitario Inglés,2.0073836422774014
+Br. Alquería,Altos de Jalisco,4.797055406814193
+Br. Gorgonzola,Br. Hipotecho Occidental III,3.3561171892139807
+Br. Gorgonzola,Br. Tejar,3.251001686835835
+Br. Gorgonzola,Br. La Capuchina,3.614050852270031
+Br. Gorgonzola,INVIMA,2.9681699938147785
+Br. Gorgonzola,Br. Cundinamarca,1.2585684394192964
+Br. Gorgonzola,Centro de Alto Rendimiento,4.152506638638191
+Br. Gorgonzola,Br. Interindustrial,3.8812513891328573
+Br. Gorgonzola,IED Antonio Baraya,4.3906527875601435
+Br. Gorgonzola,Br. La Fragua,3.2194361625226238
+Br. Gorgonzola,Br. La Soledad,3.268592534767568
+Br. Gorgonzola,Br. Santa Isabel,2.8371461599269443
+Br. Gorgonzola,Pl. Paloquemao,2.1609868834605774
+Br. Gorgonzola,Escuela María Montessori,4.523704273958007
+Br. El Nuevo Portal II,Pq San Cayetano,3.5311074078755182
+Br. El Nuevo Portal II,Br. Puerta al Llano,0.41135855648830694
+Br. Hipotecho Occidental III,Br. Tejar,1.3859520182338727
+Br. Hipotecho Occidental III,INVIMA,3.1665826871896607
+Br. Hipotecho Occidental III,Br. Ciudad Techo II,3.6091874417073266
+Br. Hipotecho Occidental III,Br. Cundinamarca,4.544017783028258
+Br. Hipotecho Occidental III,Colegio Marco Fidel Suarez,4.45638113262475
+Br. Hipotecho Occidental III,Br. Ciudad Techo II,3.2693598240792388
+Br. Hipotecho Occidental III,Br. Interindustrial,3.364614737680904
+Br. Hipotecho Occidental III,IED Antonio Baraya,4.69018894579844
+Br. Hipotecho Occidental III,Parque Castilla Reservado,4.669687988842631
+Br. Hipotecho Occidental III,Br. La Fragua,3.472884954673096
+Br. Hipotecho Occidental III,Br. Santa Isabel,3.609846780160131
+Br. Hipotecho Occidental III,Br. Casablanca,4.600435375920758
+Br. Hipotecho Occidental III,Br. Las Delicias,2.4756726664203743
+Br. Hipotecho Occidental III,IED Villa Rica Sede B,3.7838662856351992
+Br. Hipotecho Occidental III,Policlínico Comunitario Inglés,3.93504226871861
+Br. Sumapaz,Br. Callejón de Santa Bárbara,3.526154591041507
+Br. Sumapaz,Parque Deportivo Arborizadora Alta,2.395134835933134
+Br. Sumapaz,Parque Illimaní,1.8333310300585568
+Br. Sumapaz,Br. Ronda,1.4918839955422403
+Br. Sumapaz,Colegio Marco Fidel Suarez,2.861328727461014
+Br. Sumapaz,Br. Arborizadora Alta TV  34,2.6795970715216795
+Br. Sumapaz,Policlínico Comunitario Inglés,4.012814090216416
+Br. Sumapaz,Altos de Jalisco,0.7524528140506577
+Br. Tejar,INVIMA,4.161421279077189
+Br. Tejar,Br. Ciudad Techo II,4.964972286421724
+Br. Tejar,Br. Cundinamarca,4.2145892081226535
+Br. Tejar,Br. Ronda,4.800771414422994
+Br. Tejar,Colegio Marco Fidel Suarez,3.4150842326201256
+Br. Tejar,Br. Ciudad Techo II,4.596004231453913
+Br. Tejar,Br. Interindustrial,4.561568045561532
+Br. Tejar,IED Antonio Baraya,3.334244382550542
+Br. Tejar,Br. La Fragua,2.190483669274506
+Br. Tejar,Br. Santa Isabel,2.4374456482907223
+Br. Tejar,Pl. Paloquemao,4.714167602381796
+Br. Tejar,Escuela María Montessori,4.5053315051270415
+Br. Tejar,Br. Las Delicias,2.342274253933661
+Br. Tejar,IED Villa Rica Sede B,4.401957498351835
+Br. Tejar,Policlínico Comunitario Inglés,2.6308161583021548
+Br. El Minuto de Dios,Br. Ferrocaja,4.146712945247181
+Br. El Minuto de Dios,Br. Villa del Pinar,4.869645455235521
+Br. El Minuto de Dios,Br. Lujan,2.7101040070195928
+Br. El Minuto de Dios,Centro de Alto Rendimiento,4.827543853632741
+Br. El Minuto de Dios,Br. La Campiña,4.804385036498379
+Br. El Minuto de Dios,Alameda de Villaluz,2.9736321513644763
+Br. El Minuto de Dios,IED Álvaro Gómez Hurtado,3.215317199663878
+Br. El Minuto de Dios,Br. Jorge Eliecer Gaitán,3.504581633596563
+Br. El Minuto de Dios,Br. San Ignacio,3.9747606606501686
+Br. El Minuto de Dios,Br. Álamos Norte,2.9911174251510824
+Br. El Minuto de Dios,Br. La Estrada,2.4576381396847453
+Br. Ferrocaja,Brisas Aldea Fontibón,4.574768965892282
+Br. Ferrocaja,INVIMA,3.926237675832269
+Br. Ferrocaja,Br. Villa del Pinar,0.8175533934225349
+Br. Ferrocaja,Br. Lujan,2.3112360060761095
+Br. Ferrocaja,Centro de Alto Rendimiento,4.483087203289279
+Br. Ferrocaja,Alameda de Villaluz,1.6265140005829923
+Br. Ferrocaja,Br. Interindustrial,3.547734093303654
+Br. Ferrocaja,Parque Castilla Reservado,4.653947687972239
+Br. Ferrocaja,Br. San Ignacio,1.2426789304358896
+Br. Ferrocaja,Br. Álamos Norte,2.9277462954731295
+Br. Ferrocaja,Br. Sabana del Dorado,4.041989414332533
+Br. Ferrocaja,IED Costa Rica,1.6524213980794604
+Br. Ferrocaja,Br. La Estrada,3.064475823077433
+Brisas Aldea Fontibón,Br. Villa del Pinar,4.602719430890852
+Brisas Aldea Fontibón,Parque Castilla Reservado,4.482032053262241
+Brisas Aldea Fontibón,Br. Álamos Norte,4.8626080248190595
+Brisas Aldea Fontibón,Br. Sabana del Dorado,2.7610206901532584
+Brisas Aldea Fontibón,IED Costa Rica,3.093806835803826
+Br. La Capuchina,Br. Cundinamarca,2.461999619948485
+Br. La Capuchina,IED Antonio Baraya,4.3471388346611395
+Br. La Capuchina,Br. La Fragua,4.141976278736133
+Br. La Capuchina,Br. La Soledad,2.835794845140135
+Br. La Capuchina,Br. Santa Isabel,3.635069716783414
+Br. La Capuchina,Pl. Paloquemao,1.4809540059891346
+Br. La Capuchina,Escuela María Montessori,3.2472286678202535
+Br. La Capuchina,Carrera  5A,4.299824055402084
+Br. La Capuchina,Br. Sociego,4.199522162564325
+Br. Islandia - Santa Lucía,Br. La Palestina I,0.6340116862140672
+Br. Islandia - Santa Lucía,Br. Las Margaritas,2.7726765330851486
+Br. Islandia - Santa Lucía,Br. Casablanca,2.4716565916191446
+Br. Islandia - Santa Lucía,Br. Gran Colombiano,0.7529253235026628
+Br. Islandia - Santa Lucía,IED Villa Rica Sede B,3.3320296670913927
+INVIMA,Br. Ciudad Techo II,3.726842941263732
+INVIMA,Br. Villa del Pinar,3.205888166054923
+INVIMA,Br. Cundinamarca,4.0434554175727095
+INVIMA,Br. Lujan,4.443348091026963
+INVIMA,Centro de Alto Rendimiento,4.008481324823018
+INVIMA,Br. Ciudad Techo II,3.7986526800818705
+INVIMA,Alameda de Villaluz,4.223232525039367
+INVIMA,Br. Interindustrial,0.9579180673628965
+INVIMA,Parque Castilla Reservado,3.948807765880973
+INVIMA,Br. San Ignacio,3.288141816194067
+INVIMA,IED Costa Rica,4.281406591992358
+INVIMA,Br. La Estrada,4.90894587593679
+Br. Callejón de Santa Bárbara,Br. Santa Rita Suroriental,2.688174733344662
+Br. Callejón de Santa Bárbara,Br. La Gloria Oriental,2.76095980922741
+Br. Callejón de Santa Bárbara,Br. Ronda,3.3894377038129084
+Br. Callejón de Santa Bárbara,Colegio Marco Fidel Suarez,3.494972831723961
+Br. Callejón de Santa Bárbara,IED Antonio Baraya,3.252423794734605
+Br. Callejón de Santa Bárbara,Portal 20 de Julio,2.082374814773914
+Br. Callejón de Santa Bárbara,Br. La Fragua,4.410853085394938
+Br. Callejón de Santa Bárbara,Br. Santa Isabel,4.776342067866671
+Br. Callejón de Santa Bárbara,Escuela María Montessori,3.9445813952905695
+Br. Callejón de Santa Bárbara,Carrera  5A,3.1841425625688005
+Br. Callejón de Santa Bárbara,Policlínico Comunitario Inglés,3.198264445891132
+Br. Callejón de Santa Bárbara,Altos de Jalisco,2.773711385433619
+Br. Callejón de Santa Bárbara,Br. Sociego,3.14832768669196
+Br. Ciudad Techo II,Br. Villa del Pinar,4.695388769522296
+Br. Ciudad Techo II,Br. Ciudad Techo II,0.49307572799213917
+Br. Ciudad Techo II,Br. Interindustrial,2.947648844472219
+Br. Ciudad Techo II,Parque Castilla Reservado,1.266409120956651
+Br. Ciudad Techo II,Br. Las Margaritas,2.921294834148839
+Br. Ciudad Techo II,Br. Casablanca,3.790562862352741
+Br. Ciudad Techo II,IED Costa Rica,4.5278035009671225
+Br. Ciudad Techo II,Br. Las Delicias,4.647413712111676
+Br. Ciudad Techo II,IED Villa Rica Sede B,3.616144350235727
+Br. Villa del Pinar,Br. Lujan,2.7256825258477355
+Br. Villa del Pinar,Centro de Alto Rendimiento,4.4398093408674555
+Br. Villa del Pinar,Alameda de Villaluz,2.0990938603108935
+Br. Villa del Pinar,Br. Interindustrial,2.752233343376391
+Br. Villa del Pinar,Parque Castilla Reservado,3.9566809863002446
+Br. Villa del Pinar,Br. San Ignacio,1.3146236508845728
+Br. Villa del Pinar,Br. Álamos Norte,3.7211297354887445
+Br. Villa del Pinar,Br. Sabana del Dorado,4.545349075621736
+Br. Villa del Pinar,IED Costa Rica,1.5102503964263072
+Br. Villa del Pinar,Br. La Estrada,3.4732056437245595
+Br. Cundinamarca,Centro de Alto Rendimiento,4.053630075490606
+Br. Cundinamarca,Br. Interindustrial,4.991017360953683
+Br. Cundinamarca,IED Antonio Baraya,4.445208494721824
+Br. Cundinamarca,Br. La Fragua,3.5316264682617597
+Br. Cundinamarca,Br. La Soledad,2.2521620747034246
+Br. Cundinamarca,Br. Santa Isabel,3.0365589875887125
+Br. Cundinamarca,Pl. Paloquemao,0.9818152342156548
+Br. Cundinamarca,Escuela María Montessori,4.144691149851547
+Colsanitas CL 100,Br. San Luis Altos del Cabo,3.15308699524384
+Colsanitas CL 100,Br. Jorge Eliecer Gaitán,3.3845795679663566
+Colsanitas CL 100,Br. La Esperanza Nororiental,3.2116587387235103
+Colsanitas CL 100,Colegio Siervas de San José,3.519129980735744
+Br. Lujan,Centro de Alto Rendimiento,2.7482514217232046
+Br. Lujan,Alameda de Villaluz,0.6887275218955776
+Br. Lujan,Br. Interindustrial,4.568505898719304
+Br. Lujan,Br. Jorge Eliecer Gaitán,2.962545812763474
+Br. Lujan,Br. San Ignacio,1.4933079498529576
+Br. Lujan,Br. Álamos Norte,3.526250014800317
+Br. Lujan,IED Costa Rica,3.9628212081448586
+Br. Lujan,Br. La Estrada,0.756518828282899
+Centro de Alto Rendimiento,Alameda de Villaluz,3.2321281152817853
+Centro de Alto Rendimiento,Br. Interindustrial,4.670156812499839
+Centro de Alto Rendimiento,Br. Jorge Eliecer Gaitán,2.339850880738721
+Centro de Alto Rendimiento,Br. San Ignacio,3.2483733330456404
+Centro de Alto Rendimiento,Br. La Soledad,3.1102054186556702
+Centro de Alto Rendimiento,Pl. Paloquemao,4.688522785348776
+Centro de Alto Rendimiento,Br. La Estrada,2.4794582819002318
+Parque Deportivo Arborizadora Alta,Parque Illimaní,2.3907144574191723
+Parque Deportivo Arborizadora Alta,Br. Ronda,2.0863554273131046
+Parque Deportivo Arborizadora Alta,Colegio Marco Fidel Suarez,2.9173940921239883
+Parque Deportivo Arborizadora Alta,Br. Las Delicias,3.9530441398838794
+Parque Deportivo Arborizadora Alta,Br. Arborizadora Alta TV  34,0.7375286460572393
+Parque Deportivo Arborizadora Alta,IED Villa Rica Sede B,4.803742459159085
+Parque Deportivo Arborizadora Alta,Policlínico Comunitario Inglés,4.394025762750979
+Parque Deportivo Arborizadora Alta,Altos de Jalisco,2.9509960649223754
+Br. Santa Rita Suroriental,Br. La Gloria Oriental,0.41290717779805
+Br. Santa Rita Suroriental,Pq San Cayetano,2.8878824960051825
+Br. Santa Rita Suroriental,IED Antonio Baraya,4.742846649395139
+Br. Santa Rita Suroriental,Portal 20 de Julio,2.2245089876221456
+Br. Santa Rita Suroriental,Escuela María Montessori,4.524450092894205
+Br. Santa Rita Suroriental,Carrera  5A,3.1790350797067584
+Br. Santa Rita Suroriental,Br. Sociego,3.3671562179009316
+Br. La Gloria Oriental,Pq San Cayetano,3.1915878895939165
+Br. La Gloria Oriental,IED Antonio Baraya,4.5155911746109965
+Br. La Gloria Oriental,Portal 20 de Julio,1.9650230110386122
+Br. La Gloria Oriental,Escuela María Montessori,4.196410423106582
+Br. La Gloria Oriental,Carrera  5A,2.832007992790489
+Br. La Gloria Oriental,Br. Sociego,3.035424228838251
+Br. La Campiña,IED Álvaro Gómez Hurtado,1.956524797598007
+Br. La Campiña,Br. Tuna Alta,0.6298751055904073
+Br. La Campiña,Urb. Versalles,3.0128314980066415
+Parque Illimaní,Br. Ronda,2.9799019886280145
+Parque Illimaní,Colegio Marco Fidel Suarez,4.341428289932576
+Parque Illimaní,Br. Arborizadora Alta TV  34,2.1167143691317003
+Parque Illimaní,Altos de Jalisco,2.555896313613379
+Br. Ronda,Colegio Marco Fidel Suarez,1.3929871957423499
+Br. Ronda,IED Antonio Baraya,4.525276843664943
+Br. Ronda,Br. La Fragua,4.877226660988631
+Br. Ronda,Br. Las Delicias,3.7866838311780957
+Br. Ronda,Br. Arborizadora Alta TV  34,2.711110722295789
+Br. Ronda,Policlínico Comunitario Inglés,2.6996311984535835
+Br. Ronda,Altos de Jalisco,1.451071127934896
+Colegio Marco Fidel Suarez,IED Antonio Baraya,3.510833791036808
+Colegio Marco Fidel Suarez,Portal 20 de Julio,4.749119155289725
+Colegio Marco Fidel Suarez,Br. La Fragua,3.613808551432158
+Colegio Marco Fidel Suarez,Br. Santa Isabel,4.145650868723074
+Colegio Marco Fidel Suarez,Br. Las Delicias,2.7375444762163066
+Colegio Marco Fidel Suarez,Br. Arborizadora Alta TV  34,3.644190665648072
+Colegio Marco Fidel Suarez,IED Villa Rica Sede B,4.897024545921285
+Colegio Marco Fidel Suarez,Policlínico Comunitario Inglés,1.4770506438337412
+Colegio Marco Fidel Suarez,Altos de Jalisco,2.634778763451924
+Br. Ciudad Techo II,Br. Interindustrial,3.1062689223093267
+Br. Ciudad Techo II,Parque Castilla Reservado,1.7579975743359837
+Br. Ciudad Techo II,Br. Las Margaritas,2.714626015250231
+Br. Ciudad Techo II,Br. Casablanca,3.3893361398019493
+Br. Ciudad Techo II,IED Costa Rica,4.982997459615186
+Br. Ciudad Techo II,Br. Las Delicias,4.165736297784582
+Br. Ciudad Techo II,IED Villa Rica Sede B,3.1560908869401456
+Alameda de Villaluz,Br. Interindustrial,4.2113917168691275
+Alameda de Villaluz,Br. Jorge Eliecer Gaitán,3.650905327918497
+Alameda de Villaluz,Br. San Ignacio,1.003023842314054
+Alameda de Villaluz,Br. Álamos Norte,3.132895290142465
+Alameda de Villaluz,IED Costa Rica,3.2789306462018573
+Alameda de Villaluz,Br. La Estrada,1.4382038791243381
+Br. San Luis Altos del Cabo,Br. La Esperanza Nororiental,0.29573983352620686
+Br. Interindustrial,Parque Castilla Reservado,3.0198947552955016
+Br. Interindustrial,Br. San Ignacio,3.214535669589581
+Br. Interindustrial,IED Costa Rica,3.5685033454289377
+Pq San Cayetano,Br. Puerta al Llano,3.201351181226028
+IED Álvaro Gómez Hurtado,Br. Álamos Norte,3.6148070971744644
+IED Álvaro Gómez Hurtado,Br. Tuna Alta,2.5810582432724876
+IED Álvaro Gómez Hurtado,Urb. Versalles,4.142346085455424
+IED Antonio Baraya,Portal 20 de Julio,2.5558548160918044
+IED Antonio Baraya,Br. La Fragua,1.3242149837982518
+IED Antonio Baraya,Br. Santa Isabel,1.5605791192995033
+IED Antonio Baraya,Pl. Paloquemao,4.208304781257519
+IED Antonio Baraya,Escuela María Montessori,1.5226196514634995
+IED Antonio Baraya,Br. Las Delicias,4.831243201511537
+IED Antonio Baraya,Carrera  5A,2.2364438937280102
+IED Antonio Baraya,Policlínico Comunitario Inglés,2.079030653429859
+IED Antonio Baraya,Altos de Jalisco,4.962249378126585
+IED Antonio Baraya,Br. Sociego,1.9591238949111693
+Parque Castilla Reservado,Br. Las Margaritas,3.626069260050976
+Parque Castilla Reservado,Br. Casablanca,4.845596102822402
+Parque Castilla Reservado,IED Costa Rica,3.475159809216473
+Parque Castilla Reservado,IED Villa Rica Sede B,4.794708368522626
+Br. Jorge Eliecer Gaitán,Br. San Ignacio,4.257429296790738
+Br. Jorge Eliecer Gaitán,Br. La Soledad,4.634081745984532
+Br. Jorge Eliecer Gaitán,Br. La Estrada,2.23355096012523
+Br. San Ignacio,Br. Álamos Norte,3.7023341517394805
+Br. San Ignacio,IED Costa Rica,2.738715739693723
+Br. San Ignacio,Br. La Estrada,2.209480445844359
+Br. La Palestina I,Br. Las Margaritas,2.6568473200722673
+Br. La Palestina I,Br. Casablanca,1.9725812613212486
+Br. La Palestina I,Br. Gran Colombiano,1.1472353257246597
+Br. La Palestina I,IED Villa Rica Sede B,2.7887529480364828
+Br. Las Margaritas,Br. Casablanca,1.8016537756611475
+Br. Las Margaritas,Br. Gran Colombiano,3.5239497731991265
+Br. Las Margaritas,Br. Las Delicias,4.683091143069773
+Br. Las Margaritas,IED Villa Rica Sede B,2.3857386369225453
+Br. Álamos Norte,Br. Sabana del Dorado,2.636865917701356
+Br. Álamos Norte,IED Costa Rica,3.5720195341424783
+Br. Álamos Norte,Br. La Estrada,3.940910194360102
+Portal 20 de Julio,Br. La Fragua,3.8759238413439916
+Portal 20 de Julio,Br. Santa Isabel,4.027023241307439
+Portal 20 de Julio,Escuela María Montessori,2.379250652856758
+Portal 20 de Julio,Carrera  5A,1.209562057313262
+Portal 20 de Julio,Policlínico Comunitario Inglés,3.796963199826964
+Portal 20 de Julio,Altos de Jalisco,4.799987510075398
+Portal 20 de Julio,Br. Sociego,1.2864988728483067
+Br. La Fragua,Br. Santa Isabel,0.5319773918043207
+Br. La Fragua,Pl. Paloquemao,3.560181659942886
+Br. La Fragua,Escuela María Montessori,2.3148848402694018
+Br. La Fragua,Br. Las Delicias,4.10418996256894
+Br. La Fragua,Carrera  5A,3.416938212794623
+Br. La Fragua,Policlínico Comunitario Inglés,2.178104440526892
+Br. La Fragua,Br. Sociego,3.1364048928307318
+Br. La Soledad,Pl. Paloquemao,2.221291800922001
+Br. Tuna Alta,Urb. Versalles,2.7552645228693735
+Br. Santa Isabel,Pl. Paloquemao,3.0296675511054802
+Br. Santa Isabel,Escuela María Montessori,2.1712668775552495
+Br. Santa Isabel,Br. Las Delicias,4.511789795567822
+Br. Santa Isabel,Carrera  5A,3.4126779191741705
+Br. Santa Isabel,Policlínico Comunitario Inglés,2.707960517016396
+Br. Santa Isabel,Br. Sociego,3.1388449268185323
+Br. Casablanca,Br. Gran Colombiano,3.1161546212253084
+Br. Casablanca,Br. Las Delicias,3.3238844168094883
+Br. Casablanca,IED Villa Rica Sede B,0.8987592775704194
+Pl. Paloquemao,Escuela María Montessori,3.589763290763863
+Pl. Paloquemao,Carrera  5A,4.891212755805916
+Pl. Paloquemao,Br. Sociego,4.716638038897178
+Br. Gran Colombiano,IED Villa Rica Sede B,3.9345187946372984
+Br. Sabana del Dorado,IED Costa Rica,3.4628462992419973
+Urb. Versalles,Colegio Siervas de San José,2.955772787237562
+Escuela María Montessori,Carrera  5A,1.386133959955182
+Escuela María Montessori,Policlínico Comunitario Inglés,3.5988039944211065
+Escuela María Montessori,Br. Sociego,1.16110900376807
+IED Costa Rica,Br. La Estrada,4.716772818356501
+Br. Las Delicias,Br. Arborizadora Alta TV  34,4.590014010677019
+Br. Las Delicias,IED Villa Rica Sede B,2.4410325244012614
+Br. Las Delicias,Policlínico Comunitario Inglés,3.103419759318142
+Br. Arborizadora Alta TV  34,Altos de Jalisco,3.337647650476359
+Carrera  5A,Policlínico Comunitario Inglés,4.026902389443498
+Carrera  5A,Br. Sociego,0.2811421333532157
+Policlínico Comunitario Inglés,Altos de Jalisco,3.569534863683713
+Policlínico Comunitario Inglés,Br. Sociego,3.7837898498016473
